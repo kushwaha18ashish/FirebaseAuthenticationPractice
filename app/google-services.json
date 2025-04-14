@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590759913185",
+    "project_id": "fir-authenticationpracti-99dde",
+    "storage_bucket": "fir-authenticationpracti-99dde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590759913185:android:4adf39d9eafbb1fb0c79a0",
+        "android_client_info": {
+          "package_name": "com.mjolnir.firebaseauthenticationpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCITAHJSmiEwUeFLhNhP_VzCol1rerUCvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
